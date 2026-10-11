@@ -7,38 +7,19 @@
   <a href="https://github.com/PriyaRevan"><img src="https://img.shields.io/badge/PORTFOLIO-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<p align="center">
-  <img src="https://hits.sh/github.com/PriyaRevan.svg?style=flat-square&label=Profile%20views&color=d73a49&labelColor=24292f" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&height=45&lines=Java+Developer+%7C+Backend+Enthusiast;Problem+Solver+%7C+Project+Builder;B.Tech+CSE+%7C+2027+Graduate" alt="Typing SVG" />
-</p>
-
 ---
 
 ## Hi there 👋, I'm Priyanka Dhule
 
 ### 🚀 Aspiring Java Developer | 💡 Backend Enthusiast | 🎯 Problem Solver
 
-<table>
-  <tr>
-    <td valign="top" width="65%">
-      <b>B.Tech Computer Science & Engineering student</b> (Class of 2027) passionate about Java development,
-      problem-solving, and building applications that solve real-world problems.
-      <br/><br/>
-      From writing clean object-oriented code to designing databases with SQL and MySQL,
-      I'm growing my skills every day by building projects.
-      <br/><br/>
-      ☕ Java & Backend Development<br/>
-      🗄️ SQL, MySQL & DBMS<br/>
-      🚀 Building projects & improving my skills
-    </td>
-    <td align="center" width="35%">
-      <img src="profile.png" width="220" alt="Priyanka Dhule" />
-    </td>
-  </tr>
-</table>
+**B.Tech Computer Science & Engineering student** (Class of 2027) passionate about Java development, problem-solving, and building applications that solve real-world problems.
+
+From writing clean object-oriented code to designing databases with SQL and MySQL, I'm growing my skills every day by building projects.
+
+- ☕ Java & Backend Development
+- 🗄️ SQL, MySQL & DBMS
+- 🚀 Building projects & improving my skills
 
 ---
 
@@ -57,38 +38,28 @@
 
 ---
 
-## 💼 Projects
+## 🚀 My Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="images/vehicle-maintenance.png" width="100%" alt="Vehicle Maintenance" />
       <h3>🚗 Vehicle Maintenance</h3>
-      <p>An application for managing vehicle maintenance records and schedules.</p>
-      <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></p>
-      <!-- <a href="https://github.com/PriyaRevan/YOUR-REPO-NAME">🔗 View Project</a> -->
+      <p>An application for managing vehicle maintenance.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="images/code-for-her.png" width="100%" alt="Code for Her" />
       <h3>👩‍💻 Code for Her</h3>
       <p>A project focused on technology and opportunities for women.</p>
       <p><a href="https://github.com/AGTechathon/Code4her">🔗 View Project</a></p>
     </td>
   </tr>
-  <!-- Optional: remove the comment markers to add more projects, only if they are yours
   <tr>
-    <td width="50%" valign="top">
-      <img src="images/women-safety-app.png" width="100%" alt="Women Safety App" />
-      <h3>🛡️ Women Safety App</h3>
-      <p>Safety-focused mobile application.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="images/careerpilot-ai.png" width="100%" alt="CareerPilot AI" />
-      <h3>🧭 CareerPilot AI</h3>
-      <p>Career guidance for engineering students.</p>
+    <td colspan="2" valign="top">
+      <h3>🧭 CareerPilot AI <sub>(Team Project)</sub></h3>
+      <p>An AI-powered career coach for engineering students, with career roadmaps, resume feedback and interview preparation. Built with Next.js, Tailwind CSS and Google Gemini AI.</p>
+      <p><sub>Team project · Repository by Wajid Daud Tamboli &amp; team</sub></p>
+      <p><a href="https://github.com/wajiddaudtamboli/CareerPilot--AI">🔗 View Project</a> &nbsp;|&nbsp; <a href="https://career-pilot-ai-seven.vercel.app">🌐 Live Demo</a></p>
     </td>
   </tr>
-  -->
 </table>
 
 ---
@@ -98,15 +69,6 @@
 - ☕ Core Java and problem-solving
 - 🗄️ SQL and database management
 - ⚙️ Backend development fundamentals
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyaRevan&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaRevan&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
 
 ---
 
