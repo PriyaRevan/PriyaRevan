@@ -10,9 +10,10 @@ I'm a Computer Science Engineering student passionate about Java development, pr
 
 🚀 My Projects
 
-- CareerPilot.AI — An AI-based career guidance platform.
-- Code for Her — A project focused on technology and opportunities for women.
+- 🚀 My Projects
+
 - Vehicle Maintenance — An application for managing vehicle maintenance.
+- Code for Her — A project focused on technology and opportunities for women. "View Project" (https://github.com/AGTechathon/Code4her)
 
 🛠️ Skills
 
