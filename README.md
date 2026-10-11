@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PriyaRevan&label=Profile+views&color=red&style=flat" alt="Profile views" />
+  <img src="https://hits.sh/github.com/PriyaRevan.svg?style=flat-square&label=Profile%20views&color=d73a49&labelColor=24292f" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=🎨+Java+Developer+%7C+Backend+Enthusiast;☕+Problem+Solver+%7C+Project+Builder;🎓+B.Tech+CSE+%7C+2027+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&height=45&lines=Java+Developer+%7C+Backend+Enthusiast;Problem+Solver+%7C+Project+Builder;B.Tech+CSE+%7C+2027+Graduate" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,8 +35,7 @@
       🚀 Building projects & improving my skills
     </td>
     <td align="center" width="35%">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Java%20%E2%98%95&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Java banner" />
-      <!-- Optional: replace the banner above with a developer illustration from https://storyset.com or https://undraw.co -->
+      <img src="profile.png" width="220" alt="Priyanka Dhule" />
     </td>
   </tr>
 </table>
@@ -63,17 +62,33 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img src="images/vehicle-maintenance.png" width="100%" alt="Vehicle Maintenance" />
       <h3>🚗 Vehicle Maintenance</h3>
       <p>An application for managing vehicle maintenance records and schedules.</p>
       <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></p>
       <!-- <a href="https://github.com/PriyaRevan/YOUR-REPO-NAME">🔗 View Project</a> -->
     </td>
     <td width="50%" valign="top">
+      <img src="images/code-for-her.png" width="100%" alt="Code for Her" />
       <h3>👩‍💻 Code for Her</h3>
       <p>A project focused on technology and opportunities for women.</p>
       <p><a href="https://github.com/AGTechathon/Code4her">🔗 View Project</a></p>
     </td>
   </tr>
+  <!-- Optional: remove the comment markers to add more projects, only if they are yours
+  <tr>
+    <td width="50%" valign="top">
+      <img src="images/women-safety-app.png" width="100%" alt="Women Safety App" />
+      <h3>🛡️ Women Safety App</h3>
+      <p>Safety-focused mobile application.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="images/careerpilot-ai.png" width="100%" alt="CareerPilot AI" />
+      <h3>🧭 CareerPilot AI</h3>
+      <p>Career guidance for engineering students.</p>
+    </td>
+  </tr>
+  -->
 </table>
 
 ---
