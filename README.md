@@ -7,14 +7,6 @@
   <a href="https://github.com/PriyaRevan"><img src="https://img.shields.io/badge/PORTFOLIO-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PriyaRevan&label=Profile+views&color=red&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=🎨+Java+Developer+%7C+Backend+Enthusiast;☕+Problem+Solver+%7C+Project+Builder;🎓+B.Tech+CSE+%7C+2027+Graduate" alt="Typing SVG" />
-</p>
-
 ---
 
 ## Hi there 👋, I'm Priyanka Dhule
@@ -35,8 +27,7 @@
       🚀 Building projects & improving my skills
     </td>
     <td align="center" width="35%">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Java%20%E2%98%95&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Java banner" />
-      <!-- Optional: replace the banner above with a developer illustration from https://storyset.com or https://undraw.co -->
+      <img src="profile.png" width="220" alt="Priyanka Dhule" />
     </td>
   </tr>
 </table>
@@ -58,20 +49,31 @@
 
 ---
 
-## 💼 Projects
+## 🚀 My Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img src="images/vehicle-maintenance.png" width="100%" alt="Vehicle Maintenance" />
       <h3>🚗 Vehicle Maintenance</h3>
-      <p>An application for managing vehicle maintenance records and schedules.</p>
-      <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></p>
+      <p>An application for managing vehicle maintenance.</p>
       <!-- <a href="https://github.com/PriyaRevan/YOUR-REPO-NAME">🔗 View Project</a> -->
     </td>
     <td width="50%" valign="top">
+      <img src="images/code-for-her.png" width="100%" alt="Code for Her" />
       <h3>👩‍💻 Code for Her</h3>
       <p>A project focused on technology and opportunities for women.</p>
       <p><a href="https://github.com/AGTechathon/Code4her">🔗 View Project</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="images/careerpilot-ai.png" width="100%" alt="CareerPilot AI" />
+      <h3>🧭 CareerPilot AI <sub>(Team Project)</sub></h3>
+      <p>An AI-powered career coach for engineering students, with career roadmaps, resume feedback and interview preparation. Built with Next.js, Tailwind CSS and Google Gemini AI.</p>
+      <p><sub>Team project · Repository by Wajid Daud Tamboli &amp; team</sub></p>
+      <!-- Add one line about your own contribution here, e.g. "My role: ..." -->
+      <p><a href="https://github.com/wajiddaudtamboli/CareerPilot--AI">🔗 View Project</a> &nbsp;|&nbsp; <a href="https://career-pilot-ai-seven.vercel.app">🌐 Live Demo</a></p>
     </td>
   </tr>
 </table>
