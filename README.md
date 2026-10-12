@@ -7,11 +7,16 @@
   <a href="https://github.com/PriyaRevan"><img src="https://img.shields.io/badge/PORTFOLIO-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
 </p>
 
+<!-- Animated typing text (changes automatically, like a dynamic HTML heading) -->
+<p align="center">
+  <a href="https://github.com/PriyaRevan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=1F6FEB&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Aspiring+Java+Developer+%E2%98%95;Backend+Enthusiast+%E2%9A%99%EF%B8%8F;Spring+Boot+%26+MySQL+%F0%9F%97%84%EF%B8%8F;Android+%7C+Flutter+%F0%9F%93%B1;Problem+Solver+%F0%9F%8E%AF" alt="Typing animation: Aspiring Java Developer, Backend Enthusiast, Spring Boot and MySQL, Android and Flutter, Problem Solver" />
+  </a>
+</p>
+
 ---
 
 ## Hi there 👋, I'm Priyanka Dhule
-
-### 🚀 Aspiring Java Developer | 💡 Backend Enthusiast | 🎯 Problem Solver
 
 **B.Tech Computer Science & Engineering student** (Class of 2027) passionate about Java development, problem-solving, and building applications that solve real-world problems.
 
@@ -50,6 +55,14 @@ From writing clean object-oriented code to designing databases with SQL and MySQ
       <h3>👩‍💻 Code for Her</h3>
       <p>A project focused on technology and opportunities for women.</p>
       <p><a href="https://github.com/AGTechathon/Code4her">🔗 View Project</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🖐️ GestureVerse <sub>(In Development)</sub></h3>
+      <p>An interactive 3D browser-based game that explores webcam-based hand tracking and gesture-controlled gameplay. It combines 3D game development and computer vision to create an engaging gaming experience using natural hand movements.</p>
+      <p><sub>Currently improving gesture recognition, responsiveness, and gameplay performance.</sub></p>
+      <p><a href="https://github.com/PriyaRevan/GestureVerse">🔗 View Project</a></p>
     </td>
   </tr>
   <tr>
